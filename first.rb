@@ -1,2 +1,2 @@
 #1/usr/bin/ruby
-pus "Testing this script"
+puts "Testing this script"
